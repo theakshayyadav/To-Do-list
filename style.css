@@ -1,0 +1,162 @@
+.div-1{
+    display: flex;
+   
+}
+.form-date{
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 2%;
+    background-color: white;
+    border:1PX solid #808080;
+}
+.input-task{
+    height: 80px;
+    width: 80%;
+}
+.input-task
+{
+    border-radius: 5px;
+}
+.btn-save
+{
+    text-align: end;
+    /* border: 1px solid black; */
+    padding-top: 1%;
+    
+}
+.btn-save-cancel{
+    width: 200px;
+    margin-right: 10px;
+}
+   
+.btn-date
+{
+    width: 70px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #3b71ca;
+    border-radius: 3px;
+    color: white;
+    margin-left: 5px;
+
+}
+.img-date{
+    height: 30px;
+}
+.form-task
+{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 2%;
+    border:1PX solid;
+    background-color: white;
+}
+.mean-div
+{
+    padding: 10px 2%;
+    background-color: #E0E0E0;
+
+}
+.align-item{
+    align-items: center;
+}
+table ,th ,td{
+    border: 1px solid ;
+    border-left: 0;
+    border-right: 0;
+}
+.btn-actoin{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.btn-edit{
+    margin-right: 20px;
+    /* background-color:#FFBBEE; */
+}
+.action-part{
+    margin-top: 3px;
+    border: 1px solid rebeccapurple;
+    padding:1% 1% ;
+}
+.action-container{
+    /* height: 280px; */
+    background-color: ligt;
+    padding-top: 15px;
+    border-bottom: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+   
+}
+.table ,th ,td{
+    border: 1px solid #808080;
+    text-align: center;
+}
+.nav-bar{
+    height: 50px;
+    border-radius: 10px;
+   text-align: center;
+   box-shadow: 2px 2px 2px 2px;
+   /* background-color: #ee564c; */
+   background-color: #B0B0B0;
+
+}
+.nav-text{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.btn-save1,.btn-cancel{
+    background-color:#3b71ca;
+    height: 40px;
+    width: 80px;
+    border-radius: 30%;
+    border-bottom: 4px solid black;
+    color: #FFEEFF;
+}
+
+.btn-save1:hover,.btn-cancel:hover{
+    border: 2px solid white;
+}
+
+
+@media only screen and (max-width:600px) {
+
+    #form-date {
+        width: 200px;
+        height: 40px;
+        border-radius: 5px;
+        margin-left: 2%;
+        background-color: #FFEEFF;
+        border: 1PX solid #808080;
+        margin-bottom: 4%;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
